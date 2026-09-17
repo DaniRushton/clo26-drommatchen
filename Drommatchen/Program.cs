@@ -1,10 +1,14 @@
-// TODO: Skapa minst 2 spelare
-// Spelare spelare1 = new Spelare("Namn", nummer, "Position");
-// Spelare spelare2 = new Spelare(...);
+// Skapar två nya spelare
 
-// TODO: Skapa 1 match
-// Match match = new Match("Hemmalag", "Bortalag", "Datum");
+Spelare spelare1 = new("Alexia Putellas", "Forward", 9);
+Spelare spelare2 = new("Aitana Bonmatí", "Midfielder", 6);
 
-// TODO: Anropa match.Presentera()
+//En match mellan London City Lionesses och Barcelona
 
-// TODO: Anropa match.AnnounceraMålskytt() med båda spelarna
+Match match = new("London City Lionesses", "Barcelona", "16e September 2026");
+
+// Presentera dagens match
+
+match.Presentera();
+match.AnnounceraMålskytt(spelare1);
+match.AnnounceraMålskytt(spelare2); 

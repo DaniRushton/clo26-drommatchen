@@ -12,9 +12,8 @@
 
 | Namn | Lämnade in |
 |------|-----------|
-| [Namn 1] | Zip + RAPPORT.md + REFLEKTION.md |
-| [Namn 2] | REFLEKTION.md |
-| [Namn 3] | REFLEKTION.md |
+| [Daniella] | Zip + RAPPORT.md + REFLEKTION.md |
+
 
 ---
 
@@ -25,7 +24,9 @@
 
 ### Klasserna
 
-> 
+> Började med att skapa klassen 'Spelare' och lade in informationen som förfrågades, sedan när jag väl
+  hade 'mallen' av en klass så kopierade jag den bara för att skapa nästa klass 'Match' men fick då
+  ändra alla variabler och namn till passande grejor.
 
 ### Metoderna
 
