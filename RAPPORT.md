@@ -96,6 +96,13 @@
 
 Klistra in utskriften från `git log --oneline` här:
 
-```
-[klistra in här]
-```
+
+846cbd7 (HEAD -> main, origin/main) Klar med Rapport, Reflektion och kod
+c3a1d77 Lagt till ÄrMatchHjälte
+187da64 Skrivit Rapport och Reflektion
+b6c482b Gjort klart G-koden
+74a3471 merge remote repository
+bb74db2 Skapat klasser Match() och Spelare()
+34de7d5 refactor: gör property-kroppar tomma — studerande implementerar själva
+66f4917 init: starterrepo för Drömmatchen (Inlämning 1)
+
