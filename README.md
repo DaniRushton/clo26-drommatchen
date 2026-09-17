@@ -6,9 +6,9 @@
 
 ## Grupp
 
-- [Namn 1]
-- [Namn 2]
-- [Namn 3]
+- [Daniella Rushton]
+- [x]
+- [x]
 
 ## Så kör du projektet
 

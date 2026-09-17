@@ -22,12 +22,12 @@ public class Match
         Datum  = datum;
     }
 
-    public void Presentera()
+    public void Presentera() // Så man kan presentera vilka som spelar 
     {
         Console.WriteLine($"{Hemmalag} vs {Bortalag} - {Datum}");
     }
 
-    public void AnnounceraMålskytt(Spelare spelare)
+    public void AnnounceraMålskytt(Spelare spelare) // Så man kan se vem som gör mål.
     {
         Console.WriteLine($"Mål gjordes av: Nr {spelare.Nummer} {spelare.Namn} som spelar som en {spelare.Position}");
     }
